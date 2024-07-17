@@ -1,2 +1,3 @@
-# 2D-RunnerGame
+# 2D-Endless RunnerGame
  
+A replica of the 2D endless runner game with a main menu scene and game scene.
